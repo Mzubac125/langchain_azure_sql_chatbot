@@ -6,9 +6,7 @@ from langchain.sql_database import SQLDatabase
 from langchain.chat_models import ChatOpenAI
 from langchain.agents.agent_types import AgentType
 
-# Load environment variables
-#load_dotenv(override=True)
-load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '.env'), override=True)
+load_dotenv()
 
 def create_azure_sql_agent():
     

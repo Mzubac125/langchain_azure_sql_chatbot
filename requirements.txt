@@ -1,0 +1,8 @@
+langchain
+langchain_openai
+langchain_community
+python-dotenv
+pyodbc
+streamlit
+pandas
+openpyxl

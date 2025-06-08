@@ -4,6 +4,10 @@
 
 This project is an interactive AI-powered SQL chatbot built using LangChain, an LLM, Azure SQL Database, and Streamlit. It allows users to query relational data in natural language and get accurate, structured responses
 
+## Demo:
+![sqlchatbot](https://github.com/user-attachments/assets/47771e58-dbd8-4311-bcd7-892ec703b434)
+
+
 ## Tools Used:
 ** Langchain
 ** Azure SQL Database
@@ -34,4 +38,3 @@ AZURE_SQL_PASSWORD
 streamlit run streamlit_app.py
 ```
 
-## Sample 

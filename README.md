@@ -27,7 +27,6 @@ pip install -r requirements.txt
 
 3. Input Credentials
 You will need an OpenAI (or other LLM of choice) API key, and this information for your Azure Database Connection
-- AZURE_OPENAI_ENDPOINT
 - AZURE_SQL_SERVER
 - AZURE_SQL_DATABASE
 - AZURE_SQL_USERNAME

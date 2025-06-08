@@ -9,10 +9,10 @@ This project is an interactive AI-powered SQL chatbot built using LangChain, an 
 
 
 ## Tools Used:
-** Langchain
-** Azure SQL Database
-** Streamlit
-** OpenAI
+- ** Langchain
+- ** Azure SQL Database
+- ** Streamlit
+- ** OpenAI
 
 ### Set Up
 
